@@ -88,5 +88,5 @@ select instance_name, status from v$instance;
 
 
 /u01/app/oracle/product/10.2.0/db_1/prod1_prod1/sysman/log
-/u01/app/oracle/product/10.2.0/db_1/serverdb_wms/sysman/l
+/u01/app/oracle/product/10.2.0/db_1/serverdb_wms/sysman/log/123456789
 
